@@ -1,5 +1,5 @@
-first_number = 1 
+first_number = 6
 second_number = 2 
-sum = 3 
-difference = -1
-product = 
+sum = 8
+difference = 4
+product = 12
